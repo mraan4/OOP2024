@@ -1,0 +1,7 @@
+C:\Users\user\Documents\repos\Exone\bin\Debug\Exone.exe.config
+C:\Users\user\Documents\repos\Exone\bin\Debug\Exone.exe
+C:\Users\user\Documents\repos\Exone\bin\Debug\Exone.pdb
+C:\Users\user\Documents\repos\Exone\obj\Debug\Exone.csproj.AssemblyReference.cache
+C:\Users\user\Documents\repos\Exone\obj\Debug\Exone.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\repos\Exone\obj\Debug\Exone.exe
+C:\Users\user\Documents\repos\Exone\obj\Debug\Exone.pdb

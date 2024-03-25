@@ -1,0 +1,7 @@
+C:\Users\user\Documents\repos\RpsGame\bin\Debug\RpsGame.exe.config
+C:\Users\user\Documents\repos\RpsGame\bin\Debug\RpsGame.exe
+C:\Users\user\Documents\repos\RpsGame\bin\Debug\RpsGame.pdb
+C:\Users\user\Documents\repos\RpsGame\obj\Debug\RpsGame.csproj.AssemblyReference.cache
+C:\Users\user\Documents\repos\RpsGame\obj\Debug\RpsGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\repos\RpsGame\obj\Debug\RpsGame.exe
+C:\Users\user\Documents\repos\RpsGame\obj\Debug\RpsGame.pdb

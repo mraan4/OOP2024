@@ -1,0 +1,7 @@
+C:\Users\user\Documents\repos\Exfive\bin\Debug\Exfive.exe.config
+C:\Users\user\Documents\repos\Exfive\bin\Debug\Exfive.exe
+C:\Users\user\Documents\repos\Exfive\bin\Debug\Exfive.pdb
+C:\Users\user\Documents\repos\Exfive\obj\Debug\Exfive.csproj.AssemblyReference.cache
+C:\Users\user\Documents\repos\Exfive\obj\Debug\Exfive.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\repos\Exfive\obj\Debug\Exfive.exe
+C:\Users\user\Documents\repos\Exfive\obj\Debug\Exfive.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Documents\repos\Exfour\bin\Debug\Exfour.exe.config
+C:\Users\user\Documents\repos\Exfour\bin\Debug\Exfour.exe
+C:\Users\user\Documents\repos\Exfour\bin\Debug\Exfour.pdb
+C:\Users\user\Documents\repos\Exfour\obj\Debug\Exfour.csproj.AssemblyReference.cache
+C:\Users\user\Documents\repos\Exfour\obj\Debug\Exfour.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\repos\Exfour\obj\Debug\Exfour.exe
+C:\Users\user\Documents\repos\Exfour\obj\Debug\Exfour.pdb
