@@ -1,0 +1,7 @@
+C:\Users\user\Documents\repos\ExEight\bin\Debug\ExEight.exe.config
+C:\Users\user\Documents\repos\ExEight\bin\Debug\ExEight.exe
+C:\Users\user\Documents\repos\ExEight\bin\Debug\ExEight.pdb
+C:\Users\user\Documents\repos\ExEight\obj\Debug\ExEight.csproj.AssemblyReference.cache
+C:\Users\user\Documents\repos\ExEight\obj\Debug\ExEight.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\repos\ExEight\obj\Debug\ExEight.exe
+C:\Users\user\Documents\repos\ExEight\obj\Debug\ExEight.pdb

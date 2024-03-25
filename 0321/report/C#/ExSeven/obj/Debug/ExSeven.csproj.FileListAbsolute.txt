@@ -1,0 +1,7 @@
+C:\Users\user\Documents\repos\ExSeven\bin\Debug\ExSeven.exe.config
+C:\Users\user\Documents\repos\ExSeven\bin\Debug\ExSeven.exe
+C:\Users\user\Documents\repos\ExSeven\bin\Debug\ExSeven.pdb
+C:\Users\user\Documents\repos\ExSeven\obj\Debug\ExSeven.csproj.AssemblyReference.cache
+C:\Users\user\Documents\repos\ExSeven\obj\Debug\ExSeven.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\repos\ExSeven\obj\Debug\ExSeven.exe
+C:\Users\user\Documents\repos\ExSeven\obj\Debug\ExSeven.pdb

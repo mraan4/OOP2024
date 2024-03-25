@@ -1,0 +1,7 @@
+C:\Users\user\Documents\repos\ExTwo\bin\Debug\ExTwo.exe.config
+C:\Users\user\Documents\repos\ExTwo\bin\Debug\ExTwo.exe
+C:\Users\user\Documents\repos\ExTwo\bin\Debug\ExTwo.pdb
+C:\Users\user\Documents\repos\ExTwo\obj\Debug\ExTwo.csproj.AssemblyReference.cache
+C:\Users\user\Documents\repos\ExTwo\obj\Debug\ExTwo.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\repos\ExTwo\obj\Debug\ExTwo.exe
+C:\Users\user\Documents\repos\ExTwo\obj\Debug\ExTwo.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Documents\repos\ExElevenTwo\bin\Debug\ExElevenTwo.exe.config
+C:\Users\user\Documents\repos\ExElevenTwo\bin\Debug\ExElevenTwo.exe
+C:\Users\user\Documents\repos\ExElevenTwo\bin\Debug\ExElevenTwo.pdb
+C:\Users\user\Documents\repos\ExElevenTwo\obj\Debug\ExElevenTwo.csproj.AssemblyReference.cache
+C:\Users\user\Documents\repos\ExElevenTwo\obj\Debug\ExElevenTwo.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\repos\ExElevenTwo\obj\Debug\ExElevenTwo.exe
+C:\Users\user\Documents\repos\ExElevenTwo\obj\Debug\ExElevenTwo.pdb

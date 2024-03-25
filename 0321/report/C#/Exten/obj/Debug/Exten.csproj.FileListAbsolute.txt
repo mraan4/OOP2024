@@ -1,0 +1,7 @@
+C:\Users\user\Documents\repos\Exten\bin\Debug\Exten.exe.config
+C:\Users\user\Documents\repos\Exten\bin\Debug\Exten.exe
+C:\Users\user\Documents\repos\Exten\bin\Debug\Exten.pdb
+C:\Users\user\Documents\repos\Exten\obj\Debug\Exten.csproj.AssemblyReference.cache
+C:\Users\user\Documents\repos\Exten\obj\Debug\Exten.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\repos\Exten\obj\Debug\Exten.exe
+C:\Users\user\Documents\repos\Exten\obj\Debug\Exten.pdb
