@@ -1,0 +1,7 @@
+C:\Users\user\Documents\repos\Q13\bin\Debug\Q13.exe.config
+C:\Users\user\Documents\repos\Q13\bin\Debug\Q13.exe
+C:\Users\user\Documents\repos\Q13\bin\Debug\Q13.pdb
+C:\Users\user\Documents\repos\Q13\obj\Debug\Q13.csproj.AssemblyReference.cache
+C:\Users\user\Documents\repos\Q13\obj\Debug\Q13.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\repos\Q13\obj\Debug\Q13.exe
+C:\Users\user\Documents\repos\Q13\obj\Debug\Q13.pdb
