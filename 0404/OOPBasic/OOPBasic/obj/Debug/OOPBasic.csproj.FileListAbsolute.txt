@@ -1,0 +1,7 @@
+C:\CSharp\source\repos\OOPBasic\OOPBasic\bin\Debug\OOPBasic.exe.config
+C:\CSharp\source\repos\OOPBasic\OOPBasic\bin\Debug\OOPBasic.exe
+C:\CSharp\source\repos\OOPBasic\OOPBasic\bin\Debug\OOPBasic.pdb
+C:\CSharp\source\repos\OOPBasic\OOPBasic\obj\Debug\OOPBasic.csproj.AssemblyReference.cache
+C:\CSharp\source\repos\OOPBasic\OOPBasic\obj\Debug\OOPBasic.csproj.CoreCompileInputs.cache
+C:\CSharp\source\repos\OOPBasic\OOPBasic\obj\Debug\OOPBasic.exe
+C:\CSharp\source\repos\OOPBasic\OOPBasic\obj\Debug\OOPBasic.pdb

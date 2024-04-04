@@ -1,0 +1,6 @@
+C:\CSharp\source\repos\Control\Control\bin\Debug\Control.exe
+C:\CSharp\source\repos\Control\Control\bin\Debug\Control.pdb
+C:\CSharp\source\repos\Control\Control\obj\Debug\Control.csproj.AssemblyReference.cache
+C:\CSharp\source\repos\Control\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+C:\CSharp\source\repos\Control\Control\obj\Debug\Control.exe
+C:\CSharp\source\repos\Control\Control\obj\Debug\Control.pdb
