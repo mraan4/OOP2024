@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\c#과제\CircleManager1\bin\Debug\CircleManager1.exe.config
+C:\Users\user\Downloads\c#과제\CircleManager1\bin\Debug\CircleManager1.exe
+C:\Users\user\Downloads\c#과제\CircleManager1\bin\Debug\CircleManager1.pdb
+C:\Users\user\Downloads\c#과제\CircleManager1\obj\Debug\CircleManager1.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\c#과제\CircleManager1\obj\Debug\CircleManager1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\c#과제\CircleManager1\obj\Debug\CircleManager1.exe
+C:\Users\user\Downloads\c#과제\CircleManager1\obj\Debug\CircleManager1.pdb
