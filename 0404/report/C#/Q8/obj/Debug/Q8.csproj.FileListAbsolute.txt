@@ -1,0 +1,2 @@
+C:\Users\user\Downloads\c#과제\Q8\obj\Debug\Q8.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\c#과제\Q8\obj\Debug\Q8.csproj.CoreCompileInputs.cache

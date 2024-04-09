@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\c#과제\Q12\obj\Debug\Q12.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\c#과제\Q12\obj\Debug\Q12.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\c#과제\Q12\bin\Debug\Q12.exe.config
+C:\Users\user\Downloads\c#과제\Q12\bin\Debug\Q12.exe
+C:\Users\user\Downloads\c#과제\Q12\bin\Debug\Q12.pdb
+C:\Users\user\Downloads\c#과제\Q12\obj\Debug\Q12.exe
+C:\Users\user\Downloads\c#과제\Q12\obj\Debug\Q12.pdb
