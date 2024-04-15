@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\c#과제\0411\Ex5\bin\Debug\Ex5.exe.config
+C:\Users\user\Downloads\c#과제\0411\Ex5\bin\Debug\Ex5.exe
+C:\Users\user\Downloads\c#과제\0411\Ex5\bin\Debug\Ex5.pdb
+C:\Users\user\Downloads\c#과제\0411\Ex5\obj\Debug\Ex5.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\c#과제\0411\Ex5\obj\Debug\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\c#과제\0411\Ex5\obj\Debug\Ex5.exe
+C:\Users\user\Downloads\c#과제\0411\Ex5\obj\Debug\Ex5.pdb
