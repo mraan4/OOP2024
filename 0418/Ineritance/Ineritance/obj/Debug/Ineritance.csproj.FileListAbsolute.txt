@@ -1,0 +1,7 @@
+C:\CSharp\source\repos\Ineritance\Ineritance\bin\Debug\Ineritance.exe.config
+C:\CSharp\source\repos\Ineritance\Ineritance\bin\Debug\Ineritance.exe
+C:\CSharp\source\repos\Ineritance\Ineritance\bin\Debug\Ineritance.pdb
+C:\CSharp\source\repos\Ineritance\Ineritance\obj\Debug\Ineritance.csproj.AssemblyReference.cache
+C:\CSharp\source\repos\Ineritance\Ineritance\obj\Debug\Ineritance.csproj.CoreCompileInputs.cache
+C:\CSharp\source\repos\Ineritance\Ineritance\obj\Debug\Ineritance.exe
+C:\CSharp\source\repos\Ineritance\Ineritance\obj\Debug\Ineritance.pdb
